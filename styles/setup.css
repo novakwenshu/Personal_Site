@@ -1,0 +1,9 @@
+.setup {
+    position: absolute;
+    top:700px;
+    color: black;
+}
+
+.setup p {
+    font-size: 30px;
+}

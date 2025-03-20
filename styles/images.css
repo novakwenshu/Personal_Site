@@ -1,0 +1,10 @@
+.slideshow {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 51px;
+}
+
+.primary_img {
+   width: 50%;
+}
