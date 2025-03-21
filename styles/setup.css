@@ -1,9 +1,8 @@
 .setup {
-    position: absolute;
-    top:700px;
-    color: black;
+    display: flex;
+    flex-direction: column;
 }
 
-.setup p {
+.setup div {
     font-size: 30px;
 }

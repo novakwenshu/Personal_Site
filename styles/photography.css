@@ -1,0 +1,7 @@
+.page {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    flex-direction: column;
+    top: 51px;
+}
